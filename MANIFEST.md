@@ -1,13 +1,16 @@
-title: Signal Hound BB60C OOT Module
-brief: Use Signal Hound BB60C 6 GHz Spectrum Analyzer as IQ source.
-tags: # Tags are arbitrary, but look at CGRAN what other authors are using
-  - sdr
+title: Signal Hound BB60 OOT Module
+brief: Use [Signal Hound BB60 6 GHz Spectrum Analyzer](https://signalhound.com/products/bb60d-6-ghz-real-time-spectrum-analyzer/) as an I/Q source.
+tags:
+  - real-time
+  - spectrum analyzer
 author:
   - Signal Hound <support@signalhound.com>
 copyright_owner:
-  - Signal Hound, Inc.
+  - Signal Hound 
 license:
-#repo: https://github.com/SignalHound/gr-bb60c.git
-#website: https://signalhound.com
+gr_supported_version: 3.9
+#repo: https://github.com/SignalHound/gr-bb60
+#website: https://signalhound.com/
 #icon: https://signalhound.com/sigdownloads/Other/Socials-Logo-256x256-01.jpg
 ---
+A GNU Radio module for interfacing the Signal Hound BB60 Series ([BB60C](https://signalhound.com/products/bb60c/) & [BB60D](https://signalhound.com/products/bb60d-6-ghz-real-time-spectrum-analyzer/)) spectrum analyzers.
