@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/SignalHound/gr-bb60c/blob/master/docs/SH-GR.jpg" width="75%" />
+<img src="https://github.com/SignalHound/gr-bb60/blob/master/docs/SH-GR.jpg" width="75%" />
 </p>
 
 ## A [GNU Radio](https://www.gnuradio.org) module for the [Signal Hound BB60 6 GHz Real-Time Spectrum Analyzer](https://signalhound.com/products/bb60d-6-ghz-real-time-spectrum-analyzer/)
