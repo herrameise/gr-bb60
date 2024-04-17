@@ -8,7 +8,7 @@ author:
 copyright_owner:
   - Signal Hound 
 license:
-gr_supported_version: 3.9
+gr_supported_version: 3.10
 #repo: https://github.com/SignalHound/gr-bb60.git
 #website: https://signalhound.com/
 #icon: https://signalhound.com/sigdownloads/Other/Socials-Logo-256x256-01.jpg
